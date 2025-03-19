@@ -2,8 +2,8 @@
 
 Flutter Developer Assessment
 
-State Management: Bloc(Cubit)
-Clean Architecture
+State Management: Bloc(Cubit), 
+Clean Architecture, 
 Network: Dio Package
 
 
