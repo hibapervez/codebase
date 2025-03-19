@@ -1,6 +1,11 @@
 # codebase
 
-A new Flutter project.
+Flutter Developer Assessment
+
+State Management: Bloc(Cubit)
+Clean Architecture
+Network: Dio Package
+
 
 ## Getting Started
 
